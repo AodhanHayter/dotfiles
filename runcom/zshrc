@@ -1,4 +1,4 @@
-#n!/usr/bin/env zsh
+#!/usr/bin/env zsh
 
 # If not running interactively, don't do anything
 [ -z "$PS1" ] && return
@@ -11,7 +11,7 @@ else
 fi
 
 # Resolve DOTFILES_DIR
-# (assuming ~/.dotfiles on distros without readlink and/or $BASH_SOURCE/$0)
+# (assuming ~/dotfiles on distros without readlink and/or $BASH_SOURCE/$0)
 
 READLINK=$(which greadlink || which readlink)
 CURRENT_SCRIPT=${(%):-%x}
