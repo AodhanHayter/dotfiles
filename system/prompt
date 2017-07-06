@@ -1,0 +1,15 @@
+#!/usr/bin/env zsh
+
+# Put prompt info on new line
+POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
+
+# Add new line after prompt print loop
+POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
+
+# Customize prompt segments
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(docker_machine dir virtualenv node_version vcs vi_mode)
+
+# Customize segment colors
+POWERLEVEL9K_NODE_VERSION_FOREGROUND="black"
+POWERLEVEL9K_NODE_VERSION_VISUAL_IDENTIFIER_COLOR="black"
