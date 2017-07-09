@@ -16,5 +16,5 @@ zplug "modules/homebrew", from:prezto
 zplug "modules/node", from:prezto
 zplug "bhilburn/powerlevel9k", use:powerlevel9k.zsh-theme
 
-zplug load --verbose
+zplug load
 
