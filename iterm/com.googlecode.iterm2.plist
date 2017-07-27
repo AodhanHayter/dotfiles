@@ -758,7 +758,7 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>350 152 862 223 0 0 1440 877 </string>
+	<string>1928 424 862 361 1440 0 1920 1080 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>212 413 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
@@ -766,9 +766,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 140 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>340 411 796 473 0 0 1440 900 </string>
+	<string>2033 583 796 473 1440 0 1920 1080 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>720 17 714 860 0 0 1440 877 </string>
+	<string>0 17 1386 860 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>124 380 700 452 0 0 1440 878 </string>
 	<key>NeverWarnAboutShortLivedSessions_6AA215F6-5142-4C81-A1D0-84FC6A48D0CB</key>
@@ -1423,7 +1423,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>OperatorMonoNerdFontC-Medium 14</string>
+			<string>OperatorMonoNerdFontC-Medium 11</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<false/>
 			<key>Option Key Sends</key>

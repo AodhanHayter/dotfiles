@@ -42,8 +42,6 @@
 [merge]
   conflictstyle = diff3
 	tool = vimdiff
-[commit]
-  gpgSign = true
 [push]
   default = simple
   followTags = true
